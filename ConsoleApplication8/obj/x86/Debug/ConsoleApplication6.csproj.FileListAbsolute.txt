@@ -1,0 +1,5 @@
+c:\users\eek\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\eek\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\eek\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\eek\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+c:\users\eek\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb

@@ -1,0 +1,7 @@
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication21\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication21\bin\Debug\ConsoleApplication21.pdb
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.exe
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.pdb
+D:\temp\ibizkit v3\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.exe
+D:\temp\ibizkit v3\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.pdb
