@@ -27,11 +27,14 @@ namespace ConsoleApplication21
         {
             int sumOfdevisors = 1;
             int sqrt = (int)Math.Sqrt(inp);
-            for (int i = 2; i < sqrt; i++ )
+            for (int i = 2; i <= sqrt; i++)
             {
                 if (inp % i == 0)
                 {
-                    sumOfdevisors += i + (inp / i);
+                    if ((inp / i) != i)
+                        sumOfdevisors += i + (inp / i);
+                    else
+                        sumOfdevisors += i;
                 }
             }
             return sumOfdevisors;
