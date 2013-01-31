@@ -3,3 +3,9 @@ c:\users\eek\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleAp
 c:\users\eek\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.exe
 c:\users\eek\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.pdb
 c:\users\eek\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication21\bin\Debug\names.txt
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication22\obj\x86\Debug\ConsoleApplication21.exe
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication22\obj\x86\Debug\ConsoleApplication21.pdb
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication22\obj\x86\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication22\bin\Debug\names.txt
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication22\bin\Debug\ConsoleApplication21.exe
+C:\Users\eek\Documents\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication22\bin\Debug\ConsoleApplication21.pdb
